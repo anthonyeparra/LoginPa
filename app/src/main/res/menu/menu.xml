@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.loginp.contenido">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/pintehome_foreground"
+        android:orderInCategory="10"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/following"
+        android:icon="@drawable/following_foreground"
+        android:orderInCategory="20"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/notifciaciones"
+        android:icon="@drawable/notifiy_foreground"
+        android:orderInCategory="30"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/saved"
+        android:icon="@drawable/save_foreground"
+        android:orderInCategory="40"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+
+</menu>

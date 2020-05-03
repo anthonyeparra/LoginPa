@@ -1,0 +1,62 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <!-- Login-->
+    <string name="app_name">Pinterest</string>
+    <string name="btnface">Log in with Facebook</string>
+    <string name="btngoogle">Log in with Google</string>
+    <string name="Email">Email</string>
+    <string name="mEmail">Enter your email</string>
+    <string name="mpass">Enter your password</string>
+    <string name="Password">Password</string>
+    <string name="Radiobutton">Show password</string>
+    <string name="Btnlogin">Log in</string>
+    <string name="forgo">Forgotten your password?</string>
+    <string name="useicloud">Use iCloud Keychain</string>
+    <string name="title_activity_contenido">contenido</string>
+    <!-- Contenido-->
+    <string name="textonegro">4 Lither Sweeth Snacks</string>
+    <string name="textoazul1">#healty</string>
+    <string name="textoazul2">#snack #sweth</string>
+    <string name="from">From</string>
+    <string name="facebook">Facebook</string>
+    <string name="boton"><b>Visit</b></string>
+    <string name="goodful">Goodful</string>
+    <string name="saveto">saved to</string>
+    <string name="Healthy">Healthy Snack</string>
+    <string name="Appetizers">Appetizers</string>
+    <string name="Recipes">Recipes like this</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- Formulario-->
+    <string name="Name">Name</string>
+    <string name="Movin">Movin</string>
+    <string name="Mobin">mobbin1303</string>
+    <string name="Username">Username</string>
+    <string name="About_you">About you</string>
+    <string name="Add">Add</string>
+    <string name="Location">Location</string>
+    <string name="Website">Website</string>
+    <string name="organise">Organise</string>
+    <string name="Auto_sort_board">Auto-sort boards</string>
+    <string name="texto">Choose how you want Pinterest to display your board</string>
+    <string name="flecha"> > </string>
+    <string name="Recorder">Recorder boards</string>
+    <string name="textoRecorder">Drag and drop to create a custom board order</string>
+    <string name="Done">Done</string>
+    <string name="Pinterest">Pinterest</string>
+    <string name="Contraseñacorrecta">Credeciales Correctas</string>
+    <string name="Contraseñaincorrecta">Credeciales Incorrectas O Campos vacios</string>
+    <string name="ToastFacebook">Haz iniciado sesion con Facebook</string>
+    <string name="ToastGoogle">Haz iniciado sesion con Google</string>
+    <string name="rdshowPass">Mostrar Contraseña</string>
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="title_activity_Content">...</string>
+</resources>
